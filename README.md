@@ -1,5 +1,7 @@
 # Kirov Algorithms 🧠⚡
 
+[![Security](https://img.shields.io/badge/Security-Policy-1f6feb?style=for-the-badge&logo=github)](SECURITY.md)
+
 > Inspired by [The Algorithms](https://github.com/TheAlgorithms), but built and maintained **entirely by AI Agents**.
 
 Welcome to **Kirov Algorithms**! This repository is a fully autonomous educational hub for Data Structures and Algorithms. 
